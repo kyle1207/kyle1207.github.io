@@ -1,0 +1,16 @@
+INFO     root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="3a00a2d7fb6668f30e9bc6140cfa522f")>
+INFO     root:page_vs_login.py:35 正在调用vStudio登录业务方法，Test账号'用户名为：kyle、密码为：123456'
+INFO     root:base.py:29 正在查找元素：('css selector', "[id='username']")
+INFO     root:base.py:41 正在清空：('css selector', "[id='username']")元素内容
+INFO     root:base.py:43 正在对：('css selector', "[id='username']")元素执行输入：kyle操作
+INFO     root:base.py:29 正在查找元素：('css selector', "[id='password']")
+INFO     root:base.py:41 正在清空：('css selector', "[id='password']")元素内容
+INFO     root:base.py:43 正在对：('css selector', "[id='password']")元素执行输入：123456操作
+INFO     root:base.py:51 正在对: ('css selector', '.btn-primary') 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('css selector', '.btn-primary')
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='app']/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span")
+INFO     root:base.py:60 正在获取: ('xpath', "//*[@id='app']/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span") 元素的文本值！获取的文本值为： kyle
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='app']/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span")
+ERROR    root:test_vs_login.py:35 断言出错，错误信息：assert 'kyle1' == 'kyle'
+ERROR    root:base.py:67 断言错误，正在进行截图操作...
+ERROR    root:base.py:69 断言出错，正在将截取的错误图片写入Allure报告中

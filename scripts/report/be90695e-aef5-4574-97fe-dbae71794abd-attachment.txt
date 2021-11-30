@@ -1,0 +1,2 @@
+INFO     root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="a8c64f275ad33d6dcc7efc9ed8d119d4")>
+INFO     root:page_vs_login.py:37 正在调用vStudio登录业务方法，Test账号'用户名为：kyle、密码为：123456'

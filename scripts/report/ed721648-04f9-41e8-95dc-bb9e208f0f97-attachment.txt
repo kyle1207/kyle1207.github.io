@@ -1,0 +1,17 @@
+INFO     root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="51eb19f0da61ad15fd44c54a8e37e331")>
+INFO     root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="51eb19f0da61ad15fd44c54a8e37e331")>
+INFO     root:page_vs_login.py:36 正在调用vStudio登录业务方法，Test账号'用户名为：kyle、密码为：123456'
+INFO     root:base.py:29 正在查找元素：('css selector', "[id='username']")
+INFO     root:base.py:41 正在清空：('css selector', "[id='username']")元素内容
+INFO     root:base.py:43 正在对：('css selector', "[id='username']")元素执行输入：kyle操作
+INFO     root:base.py:29 正在查找元素：('css selector', "[id='password']")
+INFO     root:base.py:41 正在清空：('css selector', "[id='password']")元素内容
+INFO     root:base.py:43 正在对：('css selector', "[id='password']")元素执行输入：123456操作
+INFO     root:base.py:51 正在对: ('css selector', '.btn-primary') 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('css selector', '.btn-primary')
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='sidebar']/div/a[6]/div/span") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='sidebar']/div/a[6]/div/span")
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[1]/div[1]/button/span[1]") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[1]/div[1]/button/span[1]")
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[2]") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[2]")

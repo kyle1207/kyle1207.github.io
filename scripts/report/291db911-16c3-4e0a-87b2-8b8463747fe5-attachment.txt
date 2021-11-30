@@ -1,0 +1,3 @@
+INFO     root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="ebe02f45d0ee025a2bfa9ee7dda00d17")>
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='sidebar']/div/a[6]/div/span") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='sidebar']/div/a[6]/div/span")

@@ -1,0 +1,3 @@
+[32mINFO    [0m root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="f486697f7d8f2213878d61c3282f07fa")>
+[32mINFO    [0m root:page_vs_login.py:36 正在调用vStudio登录业务方法，Test账号'用户名为：admin、密码为：admin'
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', "[id='username']")

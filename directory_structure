@@ -1,0 +1,29 @@
+“”“
+    项目目录结构
+”“”
+EXDUIAutoTest(project)
+
+└───PO
+|   |
+|   └───base            # ui页面基类，ui页面公共方法目录
+|   |   |base.py        # 公共方法的封装
+|   └───ui              # 页面对象目录
+|   └───scripts         # 测试脚本
+|
+└───data                # 数据驱动
+|
+└───tools               # 存储读取工具类
+|
+└───image               # 存储错误截图，定位手动测试入口
+|
+└───report              # 测试报告
+|
+└───log                 # 日志
+|
+└───venv                # 环境支持
+|
+|
+│   config.py
+│   directory_structure
+|   pytest.ini
+

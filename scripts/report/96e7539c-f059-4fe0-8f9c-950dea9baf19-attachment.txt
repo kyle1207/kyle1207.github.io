@@ -1,0 +1,2 @@
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='sidebar']/div/a[6]/div/span") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='sidebar']/div/a[6]/div/span")

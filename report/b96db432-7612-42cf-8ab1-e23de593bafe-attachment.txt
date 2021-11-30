@@ -1,0 +1,16 @@
+[32mINFO    [0m root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="007085f458cc1af4a93fc6844885a275")>
+[32mINFO    [0m root:page_vs_login.py:36 正在调用vStudio登录业务方法，Test账号'用户名为：admin、密码为：Exd@ee'
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', "[id='username']")
+[32mINFO    [0m root:base.py:41 正在清空：('css selector', "[id='username']")元素内容
+[32mINFO    [0m root:base.py:43 正在对：('css selector', "[id='username']")元素执行输入：admin操作
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', "[id='password']")
+[32mINFO    [0m root:base.py:41 正在清空：('css selector', "[id='password']")元素内容
+[32mINFO    [0m root:base.py:43 正在对：('css selector', "[id='password']")元素执行输入：Exd@ee操作
+[32mINFO    [0m root:base.py:51 正在对: ('css selector', '.btn-primary') 元素进行点击操作
+[32mINFO    [0m root:base.py:29 正在查找元素：('css selector', '.btn-primary')
+[32mINFO    [0m root:base.py:29 正在查找元素：('xpath', '/html/body/div[1]/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span')
+[32mINFO    [0m root:base.py:60 正在获取: ('xpath', '/html/body/div[1]/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span') 元素的文本值！获取的文本值为： admin
+[32mINFO    [0m root:base.py:29 正在查找元素：('xpath', '/html/body/div[1]/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span')
+[32mINFO    [0m root:base.py:29 正在查找元素：('xpath', '/html/body/div[1]/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span')
+[32mINFO    [0m root:base.py:60 正在获取: ('xpath', '/html/body/div[1]/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span') 元素的文本值！获取的文本值为： admin
+[32mINFO    [0m root:base.py:29 正在查找元素：('xpath', '/html/body/div[1]/div[1]/div[2]/header/div/div[2]/div/div[2]/button/span[1]/span')

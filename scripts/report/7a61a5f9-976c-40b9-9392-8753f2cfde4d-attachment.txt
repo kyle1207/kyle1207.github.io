@@ -1,0 +1,9 @@
+INFO     root:base.py:18 正在初始化driver：<selenium.webdriver.chrome.webdriver.WebDriver (session="5e5c6f556313fcfbf49fbd2bb6ecb3d3")>
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='sidebar']/div/a[6]/div/span") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='sidebar']/div/a[6]/div/span")
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[1]/div[1]/button/span[1]") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[1]/div[1]/button/span[1]")
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[2]") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[3]/div/div/div/div/div[2]/div/div[2]")
+INFO     root:base.py:51 正在对: ('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[3]/div/div/div/div/div[3]/div/button[1]/span[1]") 元素进行点击操作
+INFO     root:base.py:29 正在查找元素：('xpath', "//*[@id='mainContent']/section/div/div[2]/div/div[3]/div/div/div/div/div[3]/div/button[1]/span[1]")
